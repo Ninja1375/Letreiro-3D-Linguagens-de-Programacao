@@ -26,8 +26,7 @@ loader.load(
 'https://threejs.org/examples/fonts/helvetiker_regular.typeface.json',
 function(font) {
  const textGeometry = new THREE
-  .TextGeometry('JavaScript
-   Python C++', {
+  .TextGeometry('HTML\nCSS\njavaScript', {
    font: font,
    size: 1,
    height: 0.5,
